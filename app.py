@@ -1,2 +1,2 @@
-print("Hello from Devops CI/CD pripeline")
+print("Hello Seya")
 
